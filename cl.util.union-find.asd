@@ -1,6 +1,3 @@
-;;; -*- Mode: CLtL -*-
-
-;;; union-find.system --
 ;;; Simple implementation of the well known UNION-FIND data structure
 ;;; (with weighted path compression).
 ;;; See file README for more info.
@@ -19,4 +16,3 @@
   :components ((:file "union-find-pkg")
 	       (:file "union-find")))
 
-;;; end of file -- union-find.system --
