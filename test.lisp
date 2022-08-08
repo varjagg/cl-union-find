@@ -14,6 +14,7 @@
 ;;; 		     (h i))
 ;;; 		     )
 
+(in-package #:union-find)
 
 (defvar *vertices* '(a b c d e f g h i j))
   
