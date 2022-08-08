@@ -11,7 +11,7 @@
 (asdf:defsystem #:cl.util.union-find
   :description "An implementation of UNION-FIND datastructure"
   :author "Marco Antoniotti"
-  :license "GPL"
+  :license "LGPL"
   :serial t
   :components ((:file "union-find-pkg")
 	       (:file "union-find")))
