@@ -8,7 +8,7 @@
 ;;; This software is released under the terms of the GNU Lesser General
 ;;; Public License (LGPL, see file COPYRIGHT for details).
 
-(asdf:defsystem #:cl.util.union-find
+(asdf:defsystem #:cl-union-find
   :description "An implementation of UNION-FIND datastructure"
   :author "Marco Antoniotti"
   :license "LGPL"
